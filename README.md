@@ -1,8 +1,8 @@
 # Analysis-on-ecommerce-data
 
--	Created Azure Data Factory pipelines to load data from Azure Data Lake Storage to Snowflake data warehouse.
--	I have used Data flow to perform transformations on the data passing through various layers such as staging, transformation (dw) and final layer (presentation).
--	Finally created power BI report.
+-	Developed Azure Data Factory pipelines to load data from Azure Data Lake Storage to Snowflake Data Warehouse. 
+-	Performed various transformations using Data Flow on Snowflake transformation (DW) and Presentation layer.
+-	On reporting side, Power BI Reports have been created to represent data.
 
 ## Screenshots:
 1. ADF pipeline <br />
